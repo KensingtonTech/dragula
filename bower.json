@@ -1,13 +1,13 @@
 {
   "name": "dragula.js",
-  "version": "3.7.2",
+  "version": "3.7.3",
   "description": "Drag and drop so simple it hurts",
   "main": [
     "dist/dragula.js",
     "dist/dragula.css"
   ],
   "ignore": [],
-  "homepage": "https://github.com/bevacqua/dragula",
+  "homepage": "https://github.com/KensingtonTech/dragula",
   "authors": [
     "Nicolas Bevacqua <nicolasbevacqua@gmail.com>"
   ],
